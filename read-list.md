@@ -6,3 +6,6 @@
 1. Boris Scholl, Trent Swanson, Peter Jausovec - [Cloud Native](https://www.oreilly.com/library/view/cloud-native/9781492053811/) (Advised by CTO of ABBYY via habr)
 1. Mark Richards, Neal Ford - [Fundamentals of Software Architecture](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/) (Advised by CTO of ABBYY via habr)
 1. Brendan Burns, Joe Beda, Kelsey Hightower - [Kubernetes: Up and Running] (https://www.oreilly.com/library/view/kubernetes-up-and/9781492046523/) (Advised by CTO of ABBYY via habr)
+1. Sam Newman - [Building Microservices] (https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/)
+1. Neal Ford, Rebecca Parsons, Patrick Kua - [Building Evolutionary Architectures](https://www.oreilly.com/library/view/building-evolutionary-architectures/9781491986356/)
+1. Adam Bellemare - [Building Event-Driven Microservices](https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/)
