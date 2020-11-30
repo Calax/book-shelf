@@ -9,3 +9,4 @@
 1. Sam Newman - [Building Microservices] (https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/)
 1. Neal Ford, Rebecca Parsons, Patrick Kua - [Building Evolutionary Architectures](https://www.oreilly.com/library/view/building-evolutionary-architectures/9781491986356/)
 1. Adam Bellemare - [Building Event-Driven Microservices](https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/)
+1. Ichak Adizes - [Leading The Leaders](https://www.goodreads.com/book/show/1783965.Leading_The_Leaders?rating=5&utm_medium=api&utm_source=book_widget) (Advised by A.Orlov via stratoplan team course).
